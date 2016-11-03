@@ -10,6 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class CheckServlet
  */
+
+
 @WebServlet("/CheckServlet")
 public class CheckServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
