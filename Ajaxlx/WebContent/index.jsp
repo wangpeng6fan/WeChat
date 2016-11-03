@@ -23,7 +23,7 @@
 
 <form action="" method="post">
 		<input type="text" id="email" name="eamil" onblur="checkEamil()" /><br /> 
-		<div id="showMsg"><h3>欢迎来到Ajax世界</h3></div>
+		<div id="showMsg"><h3>欢迎来到六色魔方世界</h3></div>
 		<input
 			type="submit" value="regist">
 
